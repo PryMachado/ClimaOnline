@@ -18,8 +18,7 @@ Validando o código do País
 Fazendo a lógica das imagens e a descrição de cada clima , Ativando o tema escuro dentro do aplicativo - Programaticamente.
 Material Design.
 
-![RiodeJaneiro](https://github.com/user-attachments/assets/c65909dc-34c5-4b99-906c-0afcd34eb81f)
-
+![RiodeJaneiro](https://github.com/user-attachments/assets/b7f7a422-6b56-40c4-ad5a-09a69a2ba28a)
 
 ![portugal](https://github.com/user-attachments/assets/42ee59d9-5334-42a1-9aa4-107bb08165c4)
 
