@@ -8,12 +8,15 @@ Com ele você pode verificar qual temperatura atual da cidade ou pais que você 
 Neste App vamos fazer requisições HTTP, consumir dados de uma API externa de previsão do tempo e vamos usar varias informações dessa API Funcional.
 
 Criando o layout principal
+TextView, EditText,
+ImageView, Button e Constraint.
 Uma barra de rolagem - NestedScrollView
 Configurando a API do OpenWeather
 permission.INTERNET
 Converter Kelvin em Graus Celsius
 Validando o código do País
 Fazendo a lógica das imagens e a descrição de cada clima , Ativando o tema escuro dentro do aplicativo - Programaticamente.
+Material Design.
 
 ![Riodejaneiro](https://github.com/user-attachments/assets/8e8de02a-b803-4696-a91b-7ac1da38b22d)
 
